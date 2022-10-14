@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/animal-crossing-data/static/css/main.79fba7a7.css",
+    "main.js": "/animal-crossing-data/static/js/main.c3c9b972.js",
+    "static/js/787.5a0daa6f.chunk.js": "/animal-crossing-data/static/js/787.5a0daa6f.chunk.js",
+    "index.html": "/animal-crossing-data/index.html",
+    "main.79fba7a7.css.map": "/animal-crossing-data/static/css/main.79fba7a7.css.map",
+    "main.c3c9b972.js.map": "/animal-crossing-data/static/js/main.c3c9b972.js.map",
+    "787.5a0daa6f.chunk.js.map": "/animal-crossing-data/static/js/787.5a0daa6f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79fba7a7.css",
+    "static/js/main.c3c9b972.js"
+  ]
+}
